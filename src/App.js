@@ -76,7 +76,7 @@ export default function App() {
 
   const onAddUser = (enteredUser) => {
 
-    alert("hello!");
+    // alert("hello!");
 
     let id = 1;
     let orderId = 1;
