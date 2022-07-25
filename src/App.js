@@ -75,8 +75,14 @@ export default function App() {
   };
 
   const onAddUser = (enteredUser) => {
-    let id = users[users.length - 1].id + 1;
-    let orderId = users[users.length - 1].order.id + 1;
+
+    let id = 1;
+    let orderId = 1;
+    
+    if (users.length > 0) {
+      id = users[users.length - 1].id + 1;
+      orderId = users[users.length - 1].order.id + 1;
+    }
 
     setUsers((prevState) => {
       return [
