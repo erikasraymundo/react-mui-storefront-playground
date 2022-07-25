@@ -1,0 +1,58 @@
+[
+  {
+    "id": "P1",
+    "name": "White Sneakers",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2021/02/whitesneakers-2048px-4197.jpg?auto=webp&quality=75&width=1024",
+    "description": "Perfect to wear, comfortable and clean look.",
+    "price": 1250
+  },
+  {
+    "id": "P2",
+    "name": "Silver Bracelet",
+    "image": "https://cf.shopee.ph/file/f1d4d7c35ec227c8d3be5e67154eac2b",
+    "description": "Shining, shimmering and splending!",
+    "price": 750
+  },
+  {
+    "id": "P3",
+    "name": "Chanel's Perfume",
+    "image": "https://www.chanel.com/images//t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_620/n-5-eau-de-parfum-spray-3-4fl-oz--packshot-default-125530-8848376856606.jpg",
+    "description": "Fragant and perfect for casaul occasions.",
+    "price": 505.25
+  },
+  {
+    "id": "P4",
+    "name": "Nike Air Zoom",
+    "image": "https://ph-live-02.slatic.net/p/6dc72af5e628b12579167a6e01c5f22c.jpg",
+    "description": "New Nike's rubber shoes, very comfortable.",
+    "price": 325.75
+  },
+  {
+    "id": "P5",
+    "name": "Raven Backpack",
+    "image": "https://images.katespade.com/is/image/KateSpade/K5492_961_1?$plpMob$",
+    "description": "Your perfect pack for everyday use and casual walks.",
+    "price": 150
+  },
+  {
+    "id": "P6",
+    "name": "Swiss Backpack",
+    "image": "https://i5.walmartimages.com/asr/5ec67be6-5cd4-450c-a2d7-d5a3f0b0d27d_1.19041d010b632c44962e7891f1befd79.jpeg",
+    "description": "Has many pockets, perfect for hiking.",
+    "price": 830
+  },
+  {
+    "id": "P7",
+    "name": "RL Polo",
+    "image": "https://www.rlmedia.io/is/image/PoloGSI/s7-1266706_alternate5?$plpDeskRF$",
+    "description": "New edition of Ralph Lauren's polo shirt for office wear.",
+    "price": 500
+  },
+  {
+    "id": "P8",
+    "name": "Women Polo",
+    "image": "https://my.tommy.com/dw/image/v2/BGLQ_PRD/on/demandware.static/-/Sites-th-master-catalog/default/dw297aacde/images/999_05_1M57636661611_MO-TP-F1.jpg?sw=548&sh=730&q=90",
+    "description": "Made from fine fabric by Tommy Hilfiger.",
+    "price": 220
+  }
+]
